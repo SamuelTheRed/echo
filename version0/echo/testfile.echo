@@ -1,0 +1,9 @@
+newarr sam = { samuel 20 6'3" 06/20/2002 red }
+newarr dev = { devon 18 unknown uunknown blonde }
+newvar legalage = 21
+sam = { samuel legalage }
+echo sam
+for 5 {
+    echo test
+}
+end
